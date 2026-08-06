@@ -1,0 +1,6 @@
+{
+  "name": "Iron & Steel: Directional Duel",
+  "description": "Realistic medieval melee fighting game with 120-degree directional joystick blocking and parrying, customizable loadouts, local multiplayer, and Bluetooth dueling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
